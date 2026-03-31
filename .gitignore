@@ -1,0 +1,16 @@
+  GNU nano 6.2                                                                                     .gitignore                                                                                               
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
+
+.vscode/
+*.db
+*.pgm
+*.yaml
+*.posegraph
+*.rvizbuild/
+install/
+log/
